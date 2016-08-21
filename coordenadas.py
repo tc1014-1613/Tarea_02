@@ -1,10 +1,17 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+# Autor: Karla Valeria Alcnatara Duarte A01373164
+# Descripcion: Calcular magnitud y angulo de un vector.
 
-from math import atan2, pi
+from math import *
 
-# A partir de aqui escribe tu programa
+x = int(input("Introduce el valor x"))
+y = int(input("Introduce el valor y"))
+
+r = hypot(x,y)
+anguloRad = atan2(y,x)
+anguloGrad = anguloRad*(180/pi)
+
+print("La magnitud es de:",r,"y el angulo de:",anguloGrad,"grados")
 
 

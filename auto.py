@@ -4,16 +4,14 @@
 # Descripcion:Calcular la distancia y el tiempo que tarda un auto de acuerdo a la velocidad que lleva.
 
 velocidad = int(input("Introduce la distancia en km/hr"))
-tiempo1 = 6
-tiempo2 = 10
+
 # v = d/t
-distancia1 = velocidad*tiempo1
-distancia2 = velocidad*tiempo2
-distancia = 500
-tiempo = distancia/velocidad
+distancia1 = velocidad*6
+distancia2 = velocidad*10
+tiempo = 500/velocidad
 
 print("La distancia que recorre en 6 hrs:",distancia1,"kilometros")
 print("La distancia que recorre en 10 hrs:",distancia2,"kilometros")
-print("El tiempo en el que recoree 500 km:",tiempo,"horas")
+print("El tiempo en el que recorre 500 km:",tiempo,"horas")
 
 

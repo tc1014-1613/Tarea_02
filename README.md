@@ -1,4 +1,4 @@
 # Tarea_02
-Tarea 2. Algoritmos
+Tarea 2. Programas y algoritmos: Coordenadas, Porcentajes, Información Personal y Automovil.
 
-Consulta el documento anexo Tarea_02_AP.docx para ver los detalles.
+Esta es la tarea terminada de José Javier Rodríguez Mota con matrícula A01372812

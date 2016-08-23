@@ -1,6 +1,6 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+# Autor: José Javier Rodríguez Mota, A01372812
+# Descripcion: Un programa que te diga cuanto pagar en un restaurante, contando propina e IVA e imprime desglosado.
 
-# A partir de aqui escribe tu programa
+#Inicio

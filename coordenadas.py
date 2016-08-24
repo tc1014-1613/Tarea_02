@@ -1,7 +1,7 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+# Autor: Ian González Pámanes, A01373302
+# Descripcion: Convierte coordenadas cardinales a coordenadas polares.
 
 from math import atan2, pi
 

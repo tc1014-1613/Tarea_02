@@ -5,8 +5,8 @@
 
 # A partir de aqui escribe tu programa
 
-subtotal=int(input("Porfavor, ingrese su sibtotal a pagar"
-propina=subtotal * 1.15 -subtotal
+subtotal=int(input("Porfavor, ingrese su sibtotal a pagar")
+propina=subtotal * 1.15 - subtotal
 iva=subtotal * 1.16 - subtotal
 total=subtotal+iva+propina
 print("el subtotal es",subtotal)

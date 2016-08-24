@@ -16,4 +16,6 @@ def main():
   angulo = atan2(y,x)
   angulo = angulo*180/3.1416
 
-print ("El vector es:", r, angulo)
+  print ("El vector es:", r, angulo)
+
+main()

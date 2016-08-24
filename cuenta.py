@@ -16,4 +16,5 @@
   print("Propina", propina)
   
   print("Total", total+IVA+propina)
-  
+
+main()

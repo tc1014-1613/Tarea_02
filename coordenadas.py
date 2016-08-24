@@ -1,10 +1,17 @@
 #encoding: UTF-8
+# Autor: Edgar Eduardo Alvarado Duran,     A01371424
+# Problema 5
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+import math
 
-from math import atan2, pi
 
-# A partir de aqui escribe tu programa
+x= int(input("Dame el valor de x"))
+y= int(input("Dame el valor de y"))
+r= math.sqrt((x**2)+ (y**2))
+angulo= math.atan2(x,y)
+grados= math.degrees(angulo)
+grados= 90-grados
+print ("La magnitud de r es:",r)
+print ("Angulo:", grados)
 
 

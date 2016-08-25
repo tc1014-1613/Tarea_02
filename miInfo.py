@@ -1,6 +1,14 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+# Autor: Maria Fernanda Rdoriguez H
+# Descripcion: imprimiendo el contenido de variables. 
 
-# A partir de aqui escribe tu programa
+nombre = ("Maria Fernanda Rodriguez Hernandez")
+matr =("A01371649")
+carrera=("ISC")
+descr=("me interesa la ciberseguridad,\nme gusta tocar el saxofony\namo el cine de arte")
+
+print(nombre)
+print(matr)
+print(carrera)
+print(descr)

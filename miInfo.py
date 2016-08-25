@@ -1,6 +1,11 @@
-#encoding: UTF-8
+#Hector David Hernandez Rodriguez
+#A01374009
+#MI INFORMACION
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+print ("Héctor David Hernández Rodríguez")
+print ("A01374009")
+print ("ISC")
 
-# A partir de aqui escribe tu programa
+print ("Me gusta crear programas y darles una utilidad")
+print ("Estudie en la prepa en el TEC")
+print ("Mis hobbies son ir al gimnasio y ver peliculas")

@@ -1,10 +1,17 @@
-#encoding: UTF-8
+#Hector David Hernandez Rodriguez
+#A01374009
+#COORDENADAS
+from math import atan2,pi
+from math import sqrt
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
-
-from math import atan2, pi
-
-# A partir de aqui escribe tu programa
-
-
+x=int(input("Introduce el valor de x "))
+y=int(input("introduce el valor de y "))
+T=atan2(y,x)
+Tan=round(T,(2))
+An=(1/Tan)
+r=(x*x)+(y*y)
+R=sqrt(r)
+R1=round(R,(0))
+print("el valor del angulo es ",T)
+print("el valor del angulo es ",An)
+print("el valor de r es ",R1)

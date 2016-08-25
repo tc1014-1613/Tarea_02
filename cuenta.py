@@ -1,6 +1,17 @@
 #encoding: UTF-8
+#Autor: Carlos E. Carbajal Nogués, A01373264
+#Descripcion: Calcula el total de tu cuenta
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+#Inicio
 
-# A partir de aqui escribe tu programa
+sub = float(input("Introduce el subtotal de tu cuenta: "))
+iva = sub*.16
+prop = sub*.15
+total = sub + iva + prop
+
+print "Tu cuenta es de: $" + str(sub)
+print "La propina es de: $" + str(prop)
+print "El IVA es de: $" + str(iva)
+print "Tu total es de: $" + str(total)
+
+#Fin

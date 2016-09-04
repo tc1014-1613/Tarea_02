@@ -1,9 +1,13 @@
 #encoding: UTF-8
+# Autor: Adrián E. Téllez López
+# Sacar la distancia en 6 y 10hrs, y el tiempo en 500km
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+v = int(input("Cual es la velocidad en km/h de tu coche"))
 
-# A partir de aqui escribe tu programa
+d1 = v * 6
+d2 = v * 10
+t1 = 500/v
 
-
-# Solucion
+print("La distancia que recorres en 6hrs es de", d1, "km")
+print("La distancia que recorres en 10hrs es de", d2, "km")
+print("El tiempo que tardas en recorrer 500km es de", t1, "hrs")

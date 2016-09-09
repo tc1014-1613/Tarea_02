@@ -1,6 +1,10 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estas resolviendo.
+# Autor: Oswaldo Morales Rodriguez A01378566
+# Imprimir información personal
 
-# A partir de aqui escribe tu programa
+
+print("Nombre: Oswaldo Morales Rodriguez")
+print("Matricula: A01378566")
+print("carrera: ISDR")
+print("Descripción: Megusta jugar Basketball, videojuegos y amo a mis perros")
